@@ -1,4 +1,4 @@
-# vcodes.js
+# realist.js
 <a href="https://discord.gg/8ZBYQAS4Q9" target="_blank"><img src="https://img.devsforum.net/tr/img/h1Z2X3.png" alt="Join our discord" width="256"></a><br>
 **Support:** [https://discord.com/MsdGCyC3ry](https://discord.com/MsdGCyC3ry) <br>
 **NPM:** [npmjs.com/package/realist.js](https://www.npmjs.com/package/realist.js)<br>
