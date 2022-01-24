@@ -33,6 +33,8 @@ dbl.checkVote("userId").then((value) => {
         console.log("User not voted.")
     }
 })
+
+**All right reserved to ReaList & vCodes**
 ```
 
 
@@ -44,7 +46,7 @@ const client = new Client();
 const dbl = new vCodes("vCodes-Bot-Token-Here", client)
 
 dbl.on("ready", () => {
-    console.log('vCodes ready!')
+    console.log('ReaList ready!')
 })
 
 dbl.checkVote("userId").then((value) => {
