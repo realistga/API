@@ -14,7 +14,7 @@ const client = new Discord.Client();
 const realist = require("realist.js");
 const dbl = new realist("TOKEN-HERE", client);
 
-client.login("MTk4NjIyNDgzNDcxOTI1MjQ4.Cl2FMQ.ZnCjm1XVW7vRze4b7Cq4se7kKWs");
+client.login("TOKEN_HERE");
 ```
 
 # Certificate Application
