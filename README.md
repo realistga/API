@@ -68,3 +68,4 @@ client.on("ready", () => {
 client.login("Discord-Bot-Token")
 ```
 
+All right reserved to ReaList and vCodes
